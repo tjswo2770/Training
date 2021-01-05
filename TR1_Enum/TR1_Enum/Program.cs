@@ -12,6 +12,7 @@ namespace TR1_Enum
         {
             Console.WriteLine("dsex");
             Console.WriteLine("amazing");
+            Console.WriteLine("check");
 
         }
     }
