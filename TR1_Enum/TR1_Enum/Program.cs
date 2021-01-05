@@ -10,12 +10,7 @@ namespace TR1_Enum
     {
         static void Main(string[] args)
         {
-            ////int a = 1;
-            //CrossAppDomainDelegatedd
-            //    d
-            //    d
-            //    d
-            //    d
+            Console.WriteLine("dsex");
 
         }
     }
