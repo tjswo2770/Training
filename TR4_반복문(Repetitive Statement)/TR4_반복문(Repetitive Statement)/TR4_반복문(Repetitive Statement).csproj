@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2AAD23C9-894A-43B8-A03A-0A1DB4951512}</ProjectGuid>
+    <ProjectGuid>{39874AC0-A852-4B10-80B8-DFDFE5A34D3E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TR4_Repetitive_Statement_반복문_</RootNamespace>
-    <AssemblyName>TR4_Repetitive Statement%28반복문%29</AssemblyName>
+    <RootNamespace>TR4_반복문_Repetitive_Statement_</RootNamespace>
+    <AssemblyName>TR4_반복문%28Repetitive Statement%29</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

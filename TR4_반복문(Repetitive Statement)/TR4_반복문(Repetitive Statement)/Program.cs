@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TR4_Repetitive_Statement_반복문_
+namespace TR4_반복문_Repetitive_Statement_
 {
     class Program
     {
