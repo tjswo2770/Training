@@ -10,6 +10,10 @@ namespace TR5_상속_Inheritance_
     {
         static void Main(string[] args)
         {
+            EmailMessage em = new EmailMessage("sunjae@naver.com");
+            em.ToWhom = "홍길동";
+            em.Message = "메일보냅니다.";
+            em.Send();
         }
     }
 }
